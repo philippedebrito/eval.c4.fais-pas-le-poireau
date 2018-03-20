@@ -1,0 +1,74 @@
+   @import url('https://fonts.googleapis.com/css?family=Ubuntu');
+
+   /*  .navbar {
+       margin-bottom: 0;
+       border-radius: 0;
+       background-color: #204f60;
+       color: #fff;
+       padding: 1% 0;
+       font-size: 1.2em;
+       border: 0;
+   } */
+.navbar {
+	background-color: #E1EFE0
+
+}
+    
+
+.nav-item {
+	color: #7DAB7A;
+	 
+}
+.nav-item:active{
+	color: #DDA771;
+	outline: none;
+}
+
+
+ .navbar-brand {
+        float: left;
+        min-height: 55px;
+        padding: 0 15px 5px;
+        margin-right: 700px;
+    }
+
+.table{
+	text-align: center;
+}
+   /*  .table1{
+   	text-align: center;
+   } */
+   /* .navbar-inverse .navbar-nav .active a,
+   .navbar-inverse .navbar-nav .active a:focus,
+   .navbar-inverse .navbar-nav .active a:hover {
+       color: #fff;
+       background-color: #204f60;
+   } */
+/* 
+    .titre1 {
+        text-align: center;
+    }
+
+    .jumbotron {
+        margin: 400px 400px;
+        display: block;
+        width: auto;
+        margin-left: auto;
+        margin-right: auto;
+    } */
+    /*  img {
+       display: block;
+       width: auto;
+       margin-left: auto;
+       margin-right: auto; */
+
+
+/*  .navbar-nav {
+       margin-bottom: 0;
+       border-radius: 0;
+     
+       color: #fff;
+       padding: 1% 0;
+       font-size: 1.2em;
+       border: 0;
+   }  */
